@@ -1,6 +1,10 @@
 colorama==0.4.6
 pyfiglet==1.0.2
 rich==13.7.0
-fastapi==0.104.1
-uvicorn==0.24.0.post1
-httpx==0.25.2
+# API stack requires Python 3.10+. Pin security-sensitive transitive dependencies.
+fastapi==0.142.2
+starlette==1.7.0
+anyio==4.15.1
+uvicorn==0.54.0
+httpx==0.28.1
+h11==0.16.0

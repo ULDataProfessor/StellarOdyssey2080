@@ -27,7 +27,7 @@ See [IMPROVEMENTS.md](docs/IMPROVEMENTS.md) for detailed technical information.
 ## Installation
 
 1. Clone this repository
-2. Install dependencies:
+2. Use Python 3.10 or newer and install dependencies:
    ```bash
    pip install -r requirements.txt
    ```

@@ -1,0 +1,123 @@
+{
+  "audit_date": "2026-10-04",
+  "python": "3.12.14",
+  "tool": "pip-audit 2.10.1",
+  "service": "PyPI",
+  "dependencies": [
+    {
+      "name": "colorama",
+      "version": "0.4.6",
+      "advisories": []
+    },
+    {
+      "name": "pyfiglet",
+      "version": "1.0.2",
+      "advisories": []
+    },
+    {
+      "name": "rich",
+      "version": "13.7.0",
+      "advisories": []
+    },
+    {
+      "name": "fastapi",
+      "version": "0.142.2",
+      "advisories": []
+    },
+    {
+      "name": "starlette",
+      "version": "1.7.0",
+      "advisories": []
+    },
+    {
+      "name": "anyio",
+      "version": "4.15.1",
+      "advisories": []
+    },
+    {
+      "name": "uvicorn",
+      "version": "0.54.0",
+      "advisories": []
+    },
+    {
+      "name": "httpx",
+      "version": "0.28.1",
+      "advisories": []
+    },
+    {
+      "name": "h11",
+      "version": "0.16.0",
+      "advisories": []
+    },
+    {
+      "name": "httpcore",
+      "version": "1.0.9",
+      "advisories": []
+    },
+    {
+      "name": "pygments",
+      "version": "2.21.0",
+      "advisories": []
+    },
+    {
+      "name": "annotated-doc",
+      "version": "0.0.5",
+      "advisories": []
+    },
+    {
+      "name": "click",
+      "version": "8.5.0",
+      "advisories": []
+    },
+    {
+      "name": "idna",
+      "version": "3.20",
+      "advisories": []
+    },
+    {
+      "name": "markdown-it-py",
+      "version": "4.2.0",
+      "advisories": []
+    },
+    {
+      "name": "mdurl",
+      "version": "0.1.2",
+      "advisories": []
+    },
+    {
+      "name": "opentelemetry-api",
+      "version": "1.45.0",
+      "advisories": []
+    },
+    {
+      "name": "pydantic",
+      "version": "2.13.5",
+      "advisories": []
+    },
+    {
+      "name": "pydantic-core",
+      "version": "2.46.5",
+      "advisories": []
+    },
+    {
+      "name": "annotated-types",
+      "version": "0.8.0",
+      "advisories": []
+    },
+    {
+      "name": "typing-extensions",
+      "version": "4.16.0",
+      "advisories": []
+    },
+    {
+      "name": "typing-inspection",
+      "version": "0.4.4",
+      "advisories": []
+    },
+    {
+      "name": "certifi",
+      "version": "2026.7.22",
+      "advisories": []
+    }
+  ]
+}
