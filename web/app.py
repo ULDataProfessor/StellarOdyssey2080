@@ -153,7 +153,7 @@ except ImportError:
     def add_security_headers(response):
         return response
     
-    def get_csrf_token(session_id):
+    def get_csrf_token():
         return ""
 
 # Initialize database with local fallback support
@@ -215,7 +215,7 @@ def get_session_id() -> str:
     
     # Generate CSRF token if security is available
     if SECURITY_AVAILABLE and "csrf_token" not in session:
-        session["csrf_token"] = get_csrf_token(session["session_id"])
+        session["csrf_token"] = get_csrf_token()
     
     return session["session_id"]
 

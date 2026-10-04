@@ -34,6 +34,9 @@ A modern web interface for the StellarOdyssey2080 space trading game built with 
 
 ### Development Setup
 
+Use Python 3.10 or newer for the pinned web and development dependencies.
+These security updates are verified on Python 3.12.
+
 1. **Install Dependencies**
    ```bash
    cd web/
